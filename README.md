@@ -1,3 +1,3 @@
 # Ma-Co
 
-Redirects to https://b0509036.ma-co.pages.dev/
+Redirects to https://99464d8d.ma-co.pages.dev/
